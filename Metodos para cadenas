@@ -1,0 +1,15 @@
+#Metodo es una función nueva para crear
+
+cadena = "Estoy utilizando los métodos de Python"
+#Lower convierte de mayúsculas a minúsculas.
+#upper convierte de minúsculas a mayúsculas
+#capitalize solo deja la iniciar el mayúsculas
+
+cadena2 = 'ESTOY UTILIZANDO METODOS DE PYTHON'
+
+print(cadena.lower())
+
+print(cadena2.lower())
+print(cadena.upper())
+print(cadena.capitalize())
+print(cadena.title())
